@@ -13,7 +13,6 @@ btn.addEventListener('click', (e) => {
   
     {   
 
-        console.log(data.meals[0]);
         mealsContainer.innerHTML = '';
         data.meals.forEach((meal) => {
                     const ingredients = [];
