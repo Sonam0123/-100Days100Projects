@@ -15,4 +15,4 @@
 <hr>
 <h2>Deployed Projects</h2>
 <break>
-<p>Project one: <p><strong>Deployed version: <a href='https://sonammealgenerator.netlify.app'>https://sonammealgenerator.netlify.app/</a></strong></p> </p>
+<p>Project one: <p> <a href='https://sonammealgenerator.netlify.app'>https://sonammealgenerator.netlify.app/</a></p> </p>
