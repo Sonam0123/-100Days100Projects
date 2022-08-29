@@ -10,5 +10,5 @@
 </p>    
 <h3>Resources</h3>
 <p>
-    <a>https://www.florin-pop.com/blog/2019/09/100-days-100-projects/</a>
+<a href='https://www.florin-pop.com/blog/2019/09/100-days-100-projects/'>https://www.florin-pop.com/blog/2019/09/100-days-100-projects/</a>.
 </p>
