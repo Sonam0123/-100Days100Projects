@@ -12,9 +12,15 @@ body {
 	padding: 30px 0;
 	min-height: calc(100vh - 60px);
 }
+.container{
+    max-width: 80%;
+}
 
 img {
-	max-width: 100%;
+    width: 30%;
+    max-height: 30%;
+    min-height: 30%;
+    
 }
 
 p {
